@@ -1,1 +1,0 @@
-# Stopwatch-in-Python-Training-project
